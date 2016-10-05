@@ -38,9 +38,9 @@ _By participating in one or more of the hackathons, entrants agree to be bound b
 
 7. For the avoidance of doubt, all Intellectual Property Rights in the entry shall remain vested in the entrant(s) who created them or, in the case of Intellectual Property Rights owned by any third party or parties, such third party or parties. Imisi3D accepts no liability for any disagreement among team members regarding ownership of any Intellectual Property Rights contained in any entry including, without limitation, the winning entry or for any inaccurate or incorrect information supplied or relied upon by any entrant during the Hackathon.
 
-8 Entries must be presented in English or if in another language, must be accompanied by a simultaneous English translation.
+8. Entries must be presented in English or if in another language, must be accompanied by a simultaneous English translation.
 
-9 Entries must not:
+9. Entries must not:
 
     1. Be defamatory of any person.
 
