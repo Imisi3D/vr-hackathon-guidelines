@@ -4,13 +4,13 @@ Congratulations! You have been shortlisted for participation in the Lagos VR Hac
 
 ## Terms and Conditions
 
-_By participating in one or more of the hackathons, entrants agree to be bound by, and are deemed to have read and understood these terms and conditions. The following are the terms upon which you may participate in the Lagos VR Hackathon being hosted by Imisi3D on [START_DATE]._
+_By participating in one or more of the hackathons, entrants agree to be bound by, and are deemed to have read and understood these terms and conditions. The following are the terms upon which you may participate in the Lagos VR Hackathon being hosted by Imisi3D on Saturday, November 19th 2016._
 
 ### Entry conditions of the Hackathon
 
 1. Entry is undertaken by individuals only and no individual may enter the Hackathon in their capacity as a member or director of an incorporated or unincorporated business. All entrants must be aged 18 or over.
 
-2. To take part in the Lagos VR Hackathon, you must register via the hackathon’s sign up form at [LINK TO_FORM] before [REGISTRATION_END].
+2. To take part in the Lagos VR Hackathon, you must register via the hackathon’s sign up form before September 9th 2016, or as advised by the organisers.
 
 3. By registering for and participating in the Hackathon, the entrants:
 
@@ -65,13 +65,13 @@ _By participating in one or more of the hackathons, entrants agree to be bound b
 10. Any changes to the membership of the team over the course of a Hackathon must be communicated to the Event Organiser immediately. If no changes are so communicated to the Event Organiser, each team will be regarded as consisting of the individuals notified on the first day of the Hackathon for the purposes of any prize money distribution to such team if it wins.
 
 ### Open source and Intellectual Property Rights
-11. All contestants are required to make their code available via a repository hosting service like Github for general learning and reference purposes.
+11. All contestants are required to make their code open source on GitHub for general learning and reference purposes.
 
-12. All contestants to share all Net Revenue received from the app downloads on the app store, in the proportion of fifty percent ([X]%) to the Imisi3D and fifty percent ([100-X]%) to the contestant.
+12. All contestants to share all Net Revenue received from the app downloads on the app store, in the proportion of fifteen percent (15%) to the Imisi3D and eighty five percent (85%) to the contestant.
 
 ### Submission of Entries and Judging of Entries
 
-13. Each team of entrants will present their entry to the Judging Panel, other entrants and guests on the evening of the Hackathon in a presentation of no longer than ten (10) minutes long followed by a Question and Answer Session of no longer than two (2) minutes long.
+13. Each team of entrants will present their entry to the Judging Panel, other entrants and guests on the evening of the Hackathon in a presentation of no longer than five (5) minutes long followed by a Question and Answer Session no longer than two (2) minutes long.
 
 14. Selection of the winning entries for the Hackathon shall be carried out by the Judging Panel. Winners will be announced at the end of the event. The Judging Panel’s decision is final and no correspondence will be entered into. Imisi3D reserve the right to make any necessary changes or substitutions to the Judging Panel prior to the Hackathon.
 
@@ -79,7 +79,7 @@ _By participating in one or more of the hackathons, entrants agree to be bound b
 
     1. it is feasible;
 
-    2. it has potential to solve a need or issue in the current society and world;
+    2. it has potential to solve a need or issue  aligned with the hackathon themes in the current society and world;
 
     3. it exhibits creativity;
 
@@ -93,7 +93,7 @@ _By participating in one or more of the hackathons, entrants agree to be bound b
 
 ### Award of Prizes
 
-18. Prize money shall be distributed to each of the winning entrants by cheque.
+18. Prize money shall be distributed to each of the winning entrants by cheque or as the sponsor deems fit.
 
 19. Where requested by Imisi3D, each member of the winning teams undertakes to provide Imisi3D with progress reports detailing all progress made with the winning entries. Such progress reports shall be completed detailing progress after 3 months, 6 months and 9 months of the last day of the Hackathon.
 
