@@ -65,17 +65,19 @@ _By participating in one or more of the hackathons, entrants agree to be bound b
 10. Any changes to the membership of the team over the course of a Hackathon must be communicated to the Event Organiser immediately. If no changes are so communicated to the Event Organiser, each team will be regarded as consisting of the individuals notified on the first day of the Hackathon for the purposes of any prize money distribution to such team if it wins.
 
 ### Open source and Intellectual Property Rights
-11. All contestants are required to make their code open source on GitHub for general learning and reference purposes.
+11. All submissions to the VR Hackathon remain the intellectual property of the individuals or organizations that developed them. By registering, consenting to the terms of the Hackathon, and entering a Submission, however, the Participant agrees that the organizers and technology partners reserve an irrevocable, nonexlusive, royalty-free license to use, distribute to the public, and publicly display and perform a submission for a period of one year starting on the date of the announcement of contest winners as an example of work. We encourage participants to open source their projects to both share their hacks with the greater community and promote innovation in this space.
 
-12. All contestants to share all Net Revenue received from the app downloads on the app store, in the proportion of fifteen percent (15%) to the Imisi3D and eighty five percent (85%) to the contestant.
+12. All contestants are expected to open source a portion of their project - can be a component, a special sorting algorithm or even the entire project
+
+13. All contestants to share all Net Revenue received from the app downloads on the app store, in the proportion of fifteen percent (15%) to the Imisi3D and eighty five percent (85%) to the contestant.
 
 ### Submission of Entries and Judging of Entries
 
-13. Each team of entrants will present their entry to the Judging Panel, other entrants and guests on the evening of the Hackathon in a presentation of no longer than five (5) minutes long followed by a Question and Answer Session no longer than two (2) minutes long.
+14. Each team of entrants will present their entry to the Judging Panel, other entrants and guests on the evening of the Hackathon in a presentation of no longer than five (5) minutes long followed by a Question and Answer Session no longer than two (2) minutes long.
 
-14. Selection of the winning entries for the Hackathon shall be carried out by the Judging Panel. Winners will be announced at the end of the event. The Judging Panel’s decision is final and no correspondence will be entered into. Imisi3D reserve the right to make any necessary changes or substitutions to the Judging Panel prior to the Hackathon.
+15. Selection of the winning entries for the Hackathon shall be carried out by the Judging Panel. Winners will be announced at the end of the event. The Judging Panel’s decision is final and no correspondence will be entered into. Imisi3D reserve the right to make any necessary changes or substitutions to the Judging Panel prior to the Hackathon.
 
-15. The winning entries shall be the entries which, in the Judging Panel’s sole judgement, best meets the following criteria:
+16. The winning entries shall be the entries which, in the Judging Panel’s sole judgement, best meets the following criteria:
 
     1. it is feasible;
 
@@ -87,22 +89,22 @@ _By participating in one or more of the hackathons, entrants agree to be bound b
 
     5. it is innovative.
 
-16. If, in the reasonable opinion of the Judging Panel, the entries are of insufficient number or quality, Imisi3D reserves the right not to make an award without liability to any entrant.
+17. If, in the reasonable opinion of the Judging Panel, the entries are of insufficient number or quality, Imisi3D reserves the right not to make an award without liability to any entrant.
 
-17. Members of the winning teams agree to provide (or allow to be taken) a group photograph for marketing/promotional purposes of Imisi3D and to make themselves reasonably available to Imisi3D for the purposes of promotion and publicity of the hackathon and Imisi3D for a period of twelve (12) months following the end of the Hackathon, in which the winning entry is entered and at no cost to Imisi3D other than any expenses genuinely and necessarily incurred in attending such promotion and publicity pre-agreed with Imisi3D.
+18. Members of the winning teams agree to provide (or allow to be taken) a group photograph for marketing/promotional purposes of Imisi3D and to make themselves reasonably available to Imisi3D for the purposes of promotion and publicity of the hackathon and Imisi3D for a period of twelve (12) months following the end of the Hackathon, in which the winning entry is entered and at no cost to Imisi3D other than any expenses genuinely and necessarily incurred in attending such promotion and publicity pre-agreed with Imisi3D.
 
 ### Award of Prizes
 
-18. Prize money shall be distributed to each of the winning entrants by cheque or as the sponsor deems fit.
+19. Prize money shall be distributed to each of the winning entrants by cheque or as the sponsor deems fit.
 
-19. Where requested by Imisi3D, each member of the winning teams undertakes to provide Imisi3D with progress reports detailing all progress made with the winning entries. Such progress reports shall be completed detailing progress after 3 months, 6 months and 9 months of the last day of the Hackathon.
+20. Where requested by Imisi3D, each member of the winning teams undertakes to provide Imisi3D with progress reports detailing all progress made with the winning entries. Such progress reports shall be completed detailing progress after 3 months, 6 months and 9 months of the last day of the Hackathon.
 
 ### Personal Data
 
-20. By entering the Hackathon, entrants agree to Imisi3D processing their personal data provided when entrants register for their place on the Hackathon, for the purposes of running the Hackathon, advertising/marketing and/or advertising/marketing future Hackathon opportunities to you and in the event that they are members of the winning team, entrants agree to Imisi3D processing their personal information for the purposes of distributing prize money. 
+21. By entering the Hackathon, entrants agree to Imisi3D processing their personal data provided when entrants register for their place on the Hackathon, for the purposes of running the Hackathon, advertising/marketing and/or advertising/marketing future Hackathon opportunities to you and in the event that they are members of the winning team, entrants agree to Imisi3D processing their personal information for the purposes of distributing prize money. 
 
 ### General Conditions
 
-21. Imisi3D reserves the right to cancel or temporarily suspend all or any of the Hackathons with no liability to any entrants or third parties.
+22. Imisi3D reserves the right to cancel or temporarily suspend all or any of the Hackathons with no liability to any entrants or third parties.
 
-22. Imisi3D reserves the right to amend the terms and conditions of the Hackathon prior to the events happening and any new terms and conditions shall be effective once uploaded to this repository.
+23. Imisi3D reserves the right to amend the terms and conditions of the Hackathon prior to the events happening and any new terms and conditions shall be effective once uploaded to this repository.
