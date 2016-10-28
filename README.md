@@ -65,7 +65,7 @@ _By participating in one or more of the hackathons, entrants agree to be bound b
 10. Any changes to the membership of the team over the course of a Hackathon must be communicated to the Event Organiser immediately. If no changes are so communicated to the Event Organiser, each team will be regarded as consisting of the individuals notified on the first day of the Hackathon for the purposes of any prize money distribution to such team if it wins.
 
 ### Open source and Intellectual Property Rights
-11. All contestants are required to make their code open source on GitHub for general learning and reference purposes.
+11. All contestants are required to make their code available via a repository hosting service like Github for general learning and reference purposes.
 
 12. All contestants to share all Net Revenue received from the app downloads on the app store, in the proportion of fifty percent ([X]%) to the Imisi3D and fifty percent ([100-X]%) to the contestant.
 
