@@ -1,6 +1,6 @@
 # Lagos VR Hackathon Guidelines
 
-Congratulations! You have been shortlisted for participation in the Lagos VR Hackathon. We are thrilled to have you take part and look forward to content you will create. This document spells out the terms and conditions that will govern your participation in the hackathon. Please take time to read it and let us know if you have any questions before giving your consent.
+Congratulations! You have been shortlisted for participation in the Lagos VR Hackathon. We are thrilled to have you take part and look forward to content you will create. This document spells out the terms and conditions that will govern your participation in the hackathon. 
 
 ## Terms and Conditions
 
